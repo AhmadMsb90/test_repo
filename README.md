@@ -6,3 +6,4 @@ This repository is built step by step in the tutorial.
 
 The line added to fetch changes ! done directly on GitHub...
 The second line added directly to do another fetch+merge!!
+Third line added directly to do a pull!
